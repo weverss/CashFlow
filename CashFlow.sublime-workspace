@@ -1,0 +1,455 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sort",
+				"date_sorting"
+			],
+			[
+				"hea",
+				"headline"
+			],
+			[
+				"des",
+				"description"
+			],
+			[
+				"get_",
+				"get_headline"
+			],
+			[
+				"is_ar",
+				"is_article"
+			],
+			[
+				"SEA",
+				"search_result"
+			],
+			[
+				"sea",
+				"search_result"
+			],
+			[
+				"h",
+				"height	Attr"
+			],
+			[
+				"ob",
+				"object_type"
+			],
+			[
+				"end",
+				"end_date"
+			],
+			[
+				"strip",
+				"strip_tags"
+			],
+			[
+				"star",
+				"start_result"
+			],
+			[
+				"get_date",
+				"get_datetime_object"
+			],
+			[
+				"start",
+				"start_date"
+			],
+			[
+				"sho",
+				"show_search_view"
+			],
+			[
+				"sug",
+				"suggestion_query"
+			],
+			[
+				"start_",
+				"start_result"
+			],
+			[
+				"para",
+				"params"
+			],
+			[
+				"search",
+				"search_params"
+			],
+			[
+				"site",
+				"site_filter"
+			],
+			[
+				"html",
+				"html_entity_decode"
+			],
+			[
+				"DESCRI",
+				"get_description"
+			],
+			[
+				"get_valu",
+				"get_value_from_header"
+			],
+			[
+				"result",
+				"result_line"
+			],
+			[
+				"resul",
+				"result_line"
+			],
+			[
+				"da",
+				"data_object"
+			],
+			[
+				"get_cu",
+				"get_current_result_line"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"get_toa",
+				"get_total_results"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"short",
+				"shorten_url"
+			],
+			[
+				"resu",
+				"results"
+			],
+			[
+				"extra",
+				"extracted_results"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"att",
+				"attributes"
+			],
+			[
+				"attribut",
+				"attributes"
+			],
+			[
+				"pars",
+				"parse_url"
+			],
+			[
+				"shor",
+				"shorten_url"
+			],
+			[
+				"url",
+				"url_params"
+			],
+			[
+				"PRINT",
+				"print_r"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 180.0,
+		"selected_items":
+		[
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 503.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/wevers/Insync/add_to_library.py",
+		"/home/wevers/Insync/import_playlist.py",
+		"/home/wevers/teste.py",
+		"/home/wevers/workspace/target.sublime-project",
+		"/home/wevers/workspace/common/classes/search1/search.class.php",
+		"/home/wevers/workspace/common/classes/search1/search_engine.class.php",
+		"/home/wevers/workspace/search1.folha.com.br/templates/online/search.inc.php",
+		"/home/wevers/workspace/common/classes/search1/search_result.class.php",
+		"/home/wevers/workspace/common/includes/folha/5.4/urgent.inc.php",
+		"/home/wevers/workspace/common/includes/folha/5.4/ticker.inc.php",
+		"/home/wevers/workspace/common/includes/folha/5.4/sidebar.inc.php",
+		"/home/wevers/workspace/common/includes/folha/5.4/search.inc.php",
+		"/home/wevers/workspace/common/includes/folha/5.4/menu.inc.php",
+		"/home/wevers/workspace/common/includes/folha/5.4/masthead.inc.php",
+		"/home/wevers/workspace/common/includes/folha/5.4/header-printed.inc.php",
+		"/home/wevers/workspace/common/includes/folha/5.4/header_content.inc.php",
+		"/home/wevers/workspace/common/includes/folha/5.4/ads.inc.php",
+		"/home/wevers/workspace/common/includes/folha/5.4/footer.inc.php",
+		"/home/wevers/workspace/common/includes/folha/5.4/assets.inc.php",
+		"/home/wevers/workspace/common/includes/folha/5.4/ad-top.inc.php",
+		"/home/wevers/workspace/common/includes/folha/5.4/weather.inc.php",
+		"/home/wevers/workspace/search1.folha.com.br/scripts/search_controller.class.php",
+		"/home/wevers/workspace/search1.folha.com.br/scripts/urls.inc.php",
+		"/home/wevers/workspace/search1.folha.com.br/index.php",
+		"/home/wevers/workspace/search1.folha.com.br/templates/online/search.inc.php.bkp",
+		"/var/www/html/investt/common/includes/boilerplate/1/header.inc.php",
+		"/var/www/html/investt/common/status/getallheaders.php",
+		"/home/wevers/.config/sublime-text-3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/home/wevers/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/wevers/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/wevers/workspace/search1.folha.com.br/scripts/home_controller.class.php",
+		"/home/wevers/workspace/search.folha.com.br/scripts/aspseek.class.php",
+		"/home/wevers/workspace/search.folha.com.br/templates/online/search.inc.php",
+		"/home/wevers/workspace/common/classes/spiffy_date.class.php",
+		"/home/wevers/workspace/common/classes/spiffy_types.class.php",
+		"/home/wevers/workspace/common/classes/spiffy_controller.class.php",
+		"/home/wevers/workspace/common/classes/search1/util.inc.php",
+		"/home/wevers/workspace/search1.folha.com.br/scripts/init.inc.php",
+		"/home/wevers/workspace/jones.corp.folha.com.br/scripts/init.inc.php",
+		"/home/wevers/workspace/common/classes/spiffy_phone.class.php",
+		"/home/wevers/workspace/common/classes/spiffy_util.inc.php",
+		"/home/wevers/workspace/common/classes/spiffy_notify.class.php",
+		"/home/wevers/workspace/common/classes/spiffy_field.class.php",
+		"/home/wevers/workspace/common/classes/spiffy_bank.class.php",
+		"/home/wevers/workspace/common/classes/spiffy_gui.inc.php",
+		"/home/wevers/workspace/common/classes/spiffy_event.class.php",
+		"/home/wevers/workspace/common/classes/spiffy_event_config.inc.php",
+		"/home/wevers/workspace/search1.folha.com.br/templates/internacional/search.inc.php",
+		"/home/wevers/workspace/search1.folha.com.br/templates/f5/search.inc.php",
+		"/home/wevers/workspace/search1.folha.com.br/templates/datafolha/search.inc.php",
+		"/home/wevers/workspace/search1.folha.com.br/templates/agora/search.inc.php",
+		"/home/wevers/.config/sublime-text-3/Packages/User/SublimeLinter.sublime-settings",
+		"/home/wevers/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+		"/home/wevers/workspace/common/classes/search1/custom_search_engine.class.php",
+		"/home/wevers/workspace/search1.sublime-project",
+		"/home/wevers/.config/sublime-text-3/Packages/User/FSync.sublime-settings",
+		"/home/wevers/.config/sublime-text-3/Packages/FSync/FSync.sublime-settings",
+		"/home/wevers/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/wevers/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/wevers/workspace/search.sublime-project",
+		"/mnt/dev_desenvolvedores/51/jones.sublime-project",
+		"/home/wevers/workspace/dev_bin/jones/fee_capital_report.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"/home/wevers/workspace/common/classes/search",
+			"/home/wevers/workspace/search.folha.com.br/templates"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" );",
+			"truncate",
+			"includes",
+			"ads",
+			"search.inc.php",
+			"author",
+			"tab",
+			"trail",
+			"trailin",
+			"space",
+			"\"=>",
+			"aten",
+			"atenç",
+			"params",
+			"result",
+			"margin",
+			"gui_render_paginate"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\" =>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.autopep8":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "CashFlow.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"/search_result.class.php",
+				"classes/search_result.class.php"
+			],
+			[
+				"inde",
+				"frontend/index.php"
+			],
+			[
+				"sea_con",
+				"frontend/scripts/search_controller.class.php"
+			],
+			[
+				"sear",
+				"frontend/templates/online/search.inc.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/workspace/jones.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 222.0,
+		"selected_items":
+		[
+			[
+				"is_date",
+				"is_date"
+			],
+			[
+				"as_date",
+				"as_datetime"
+			],
+			[
+				"datetime",
+				"get_datetime_object"
+			],
+			[
+				"if_nu",
+				"_if_null"
+			],
+			[
+				"if_n",
+				"_if_null"
+			],
+			[
+				"gui_re",
+				"gui_render_paginate"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 327.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
