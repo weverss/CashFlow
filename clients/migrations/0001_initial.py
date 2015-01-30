@@ -10,15 +10,4 @@ class Migration(migrations.Migration):
     ]
 
     operations = [
-        migrations.CreateModel(
-            name='Client',
-            fields=[
-                ('id', models.AutoField(verbose_name='ID', serialize=False, auto_created=True, primary_key=True)),
-                ('name', models.CharField(max_length=100)),
-                ('created_at', models.DateTimeField(verbose_name=b'Criado em')),
-            ],
-            options={
-            },
-            bases=(models.Model,),
-        ),
     ]
